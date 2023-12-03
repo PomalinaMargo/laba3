@@ -1,0 +1,12 @@
+[
+    {
+        "title": "The shop on the Royal street",
+        "author": {
+            "first_name": "First",
+            "middle_name": "Middle",
+            "last_name": "Last"
+        },
+        "year": "2000",
+        "genre": "Modern"
+    }
+]
